@@ -1,5 +1,5 @@
 // ===== API CONFIGURATION =====
-const API_BASE_URL = 'https://many-falcons-lose.loca.lt';
+const API_BASE_URL = 'https://curly-wombats-juggle.loca.lt';
 const API_TIMEOUT = 15000; // 15 seconds
 
 // ===== API CLIENT CLASS =====
