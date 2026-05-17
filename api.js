@@ -1,5 +1,5 @@
 // ===== API CONFIGURATION =====
-const API_BASE_URL = 'https://fine-parts-join.loca.lt';
+const API_BASE_URL = 'https://oovsu-185-229-191-172.run.pinggy-free.link';
 const API_TIMEOUT = 15000; // 15 seconds
 
 // ===== API CLIENT CLASS =====
